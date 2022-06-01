@@ -10,7 +10,7 @@
 ## Tools
 #### Jupyter Notebook,Ms-Excel,Tableau
 ## Linkedin
-
+#### https://www.linkedin.com/posts/nikhil-barjatia-003892227_activity-6937728064952897536-Um_q?utm_source=linkedin_share&utm_medium=android_app
 ## Video
 
 
